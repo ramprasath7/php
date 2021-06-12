@@ -2,7 +2,7 @@
 		include_once('assets/includes/_settings.php');
 		$site['page']['title'] = 'MASTER';
 		//$site['page']['articletitle'] = '';
-		$site['page']['current']['section'] = 'home';
+		$site['page']['current']['section'] = 'house';
 		//$site['page']['current']['page'] = '';
 		//$site['page']['classes']['body'][] = '';
 
